@@ -1,0 +1,50 @@
+h1
+{
+	font-size: 30px;
+	color: black;
+	text-align: center;
+    margin-bottom: 25px;
+}
+
+h2
+{
+	font-size: 25px;
+	background: white;
+	text-align: right;
+	display: block;
+
+
+}
+
+h3 {
+      font-size: 25px;
+      background: white;
+      display: block;
+      text-align:right;
+      background-color: red;
+
+}
+
+.khas {
+
+     width: 300px;
+     height: 300px;
+     border: 5px solid;
+     padding: 10px;
+     margin: 10px;
+     background-color: silver;
+}
+
+.jan
+{
+   width: 300px;
+    height: 300px;
+    padding: 10px;
+    border: 5px solid;
+    background-color: silver;
+    top: 50%;
+    right: 50%;
+margin-left: 400px;
+margin-bottom: 700px;
+
+}
